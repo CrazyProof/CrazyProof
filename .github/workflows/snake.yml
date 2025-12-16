@@ -12,8 +12,9 @@ on:
   push:
     branches:
     - main
-    
-  
+
+permissions:
+  contents: write # 赋予 Actions Token 写入权限
 
 jobs:
   generate:

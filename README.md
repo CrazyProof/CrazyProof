@@ -1,4 +1,4 @@
-## Hi there 👋
+## 无限进步 👋
 
 ![](https://raw.githubusercontent.com/CrazyProof/CrazyProof/refs/heads/output/github-contribution-grid-snake.svg)
 
